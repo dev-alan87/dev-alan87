@@ -14,7 +14,7 @@ Corre lá em [https://linktr.ee/alan.alves87] pra me achar nas redes sociais.
  
 Nice to meet you! I'm Alan Alves:
 
-:house: Brazilian from Sampa | :eyes: more than 30y.o. less than 40y.o. | :heart: Tamanduás-Bandeira Rugby father's | :rainbow_flag: gay | :rugby_football: rugbier | :bicyclist: cyclist | :man_technologist: system developer | :open_book: escritor amador | :movie_camera: maratonista de séries
+:house: Brazilian from Sampa | :eyes: more than 30y.o. less than 40y.o. | :heart: Tamanduás-Bandeira Rugby father's | :rainbow_flag: gay | :rugby_football: rugbier | :bicyclist: cyclist | :man_technologist: system developer | :open_book: writer in free time | :movie_camera: addicted to movies
 
 :heavy_check_mark: and much more...
 
