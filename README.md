@@ -1,4 +1,4 @@
-# :wave: Olá mundo! :earth_americas: :brazil: #
+### :wave: Olá mundo! :earth_americas: :brazil: ###
  
 Muito Prazer, eu sou o Alan Alves:
 
@@ -10,7 +10,7 @@ Corre lá em [https://linktr.ee/alan.alves87] pra me achar nas redes sociais.
 
 -----------------------------------------
 
-:wave: Hello World! :earth_americas:
+### :wave: Hello World! :earth_americas: ###
  
 Nice to meet you! I'm Alan Alves:
 
