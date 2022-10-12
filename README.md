@@ -1,7 +1,4 @@
-:brazil:
-
-
-:wave: Olá Mundo! :earth_americas:
+:wave: Olá Mundo! :earth_americas: :brazil:
  
 Muito Prazer, eu sou o Alan Alves:
 
