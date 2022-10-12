@@ -1,4 +1,6 @@
-:brazil: (pt-BR)
+:brazil:
+
+
 :wave: Olá Mundo! :earth_americas:
  
 Sou o Alan Alves:
