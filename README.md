@@ -2,7 +2,7 @@
  
 Nice to meet you, I'm Alan Alves:
 
-:house: São Paulo, SP | :eyes: trinta-e-poucos-anos | :heart: pai do Tamanduás-Bandeira Rugby | :man_technologist: system developer | :muscle: gym addicted | :rugby_football: rugby pride | :fork_and_knife: fitness nightmare |  :runner: amateur runner | :movie_camera: binge_watcher
+:house: São Paulo, SP | :eyes: late 30s | :heart: Tamanduás-Bandeira Rugby's father | :man_technologist: system developer | :muscle: gym addicted | :rugby_football: rugby pride | :fork_and_knife: fitness nightmare |  :runner: amateur runner | :movie_camera: binge_watcher
 :heavy_check_mark: and much more...
  
 Find me in social medias at [https://linktr.ee/alan.alves87] .
